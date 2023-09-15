@@ -9,6 +9,7 @@ This project aims to build an Expense Tracker based on GUI. In order to build th
 To build this project, we will need the following libraries:
 
 1. Tkinter – To create the GUI.
+
 a. messagebox – To display a box containing information, warning, or error or asking a question.
 # Project File Structure:
 Here are the steps you will need to execute to build this project:
